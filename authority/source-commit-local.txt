@@ -1,0 +1,26 @@
+tree 402f5f12d83cb86dbceb9d9dceec12731ea48980
+parent 75e3c0279ff4f7b5f110a6240c0df258c4b085c1
+parent 565c4f3bd6a06a593d22786730435f59ee6b1aa1
+author Oleksandr Mekhovov <oleksandr.mekhovov@coupa.com> 1790081535 +0200
+committer GitHub <noreply@github.com> 1790081535 +0200
+gpgsig -----BEGIN PGP SIGNATURE-----
+ 
+ wsFcBAABCAAQBQJqsnn/CRC1aQ7uu5UhlAAAANkQAFkoKfZJJ/kM5c1D8IZsTVeS
+ fgQjEymPWDAAhrbixDsBwFOT5AFThqfiLFq3ddw2Kc2EYBN1ClUq3a7Vl1SxPoNr
+ NLTeQmZZVSFy8GLc0GZ3z7bFOATX8i1ILMPRtcqf5cuEGl+6obJBQmON/fg65jIY
+ lsmCollMYnTOJ15pyMDEu8FUcgpYR7WCu487zpTsVwvZ/+bDqvN79bdgVBr5Iyh4
+ aqS6H2eS6CQ4epojS1v1Wy1WDORkoo0VuVjc77AgbFHSiIBaoowAy9ag3vOGAhyM
+ 5ksC4rBFRn3rsDkzjFbfrmmfG0bM3VZN+SmZFXHZgMm+cLagMr0632JB2VzBGUBz
+ wDP5WdAwYpeDWUaTCYIv/VjP584ZNf7Tvo9r1SdBo8Sqnym9B23M2hboCUQItY8k
+ 83YSq6KdC4dwnC3jJwdTOprdm6UwtdfK3SXklJJEg4UEBn+dO5NlQKA0CkzoYwqG
+ ZZhHTASDgYfHQJYZ/AFXpeopma5opDNW8UfCvoJ2uUQrnzq7GmEqtP18vv9zQqV/
+ lU03dod0s66hLXit2W8Gh4unRnbItlmSaAnHFPpWwIvN/OtDVyhbolM75cNZ1Bd1
+ cFwGRZGB8o1PzbQyb81/BJD/78CLeGcx23hSZIqxnu0t9OasTyJWa3kry/hQ7fTm
+ jIiiN5UQnXo+MQfVgnv5
+ =CofI
+ -----END PGP SIGNATURE-----
+ 
+
+Merge pull request #250 from mekhovov/codex/xposed-journey-p15
+
+Preserve session-only originals and progression recovery (v0.82.1)
