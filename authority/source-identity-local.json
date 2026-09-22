@@ -1,0 +1,9 @@
+{
+  "format": "local-git-object-observation.v1",
+  "method": "git cat-file commit; git rev-parse commit^{tree}",
+  "source": "64ec9fd2e5688f4248fe005ac6a47c0c1394ea9e",
+  "tree": "402f5f12d83cb86dbceb9d9dceec12731ea48980",
+  "rawCommitFile": "source-commit-local.txt",
+  "rawCommitSha256": "5a652c2f2024692bac23dccfde6801fd0038e253d314c3570e11587bd6825b2f",
+  "remoteAPIClaim": false
+}
